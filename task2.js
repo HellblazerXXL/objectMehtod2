@@ -10,3 +10,4 @@ let product = {
 
 let keys = console.log(Object.keys(product));
 let values = console.log(Object.values(product));
+console.log(product)
